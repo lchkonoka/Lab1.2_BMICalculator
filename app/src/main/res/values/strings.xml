@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Practical 2</string>
+    <string name="input_Weight">Weight (kg)</string>
+    <string name="input_Height">Height (m)</string>
+</resources>
